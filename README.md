@@ -12,7 +12,7 @@
  - > open source projects and get started with open source 
 - 📫 How to reach me ... 
  - > email - akkshaytandon100@bbdu.ac.in .
- - > twitter - coming soon...
+ - > twitter - @AkkshayTandon
 
 <!---
 akkshayTandon/akkshayTandon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
