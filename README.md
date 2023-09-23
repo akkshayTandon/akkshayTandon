@@ -15,7 +15,12 @@
 # Github Stats
  > [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkshayTandon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 # Top Languages
-  > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkshayTandon&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkshayTandon&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+# Quine 
+ > [![akkshayTandon's GitHub | Stats](https://stats.quine.sh/akkshayTandon/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akkshayTandon)
+ > [![akkshayTandon's GitHub | Topics Over Time](https://stats.quine.sh/akkshayTandon/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akkshayTandon) 
+ > [![akkshayTandon's GitHub | Dependencies](https://stats.quine.sh/akkshayTandon/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akkshayTandon)
+ > [![akkshayTandon's GitHub | Languages Over Time](https://stats.quine.sh/akkshayTandon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akkshayTandon)
 
 # Trophy
   > [![trophy](https://github-profile-trophy.vercel.app/?username=akkshayTandon&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
