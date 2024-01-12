@@ -7,7 +7,7 @@
 # 🌱 My tech stack includes ... 
  - HTML
  - CSS
- - JS
+ - JavaScript
  - TailwindCSS
  - ReactJS
  - Firebase
