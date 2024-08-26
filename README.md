@@ -9,6 +9,7 @@
 [![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/akkshaytandon)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tandonakkshay/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AkkshayTandon)
+<a href="https://www.hackerrank.com/profile/akkshay65"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
 
 # 💻 Tech Stack:
 
@@ -35,6 +36,8 @@
 >  <img width="12" />
 >  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 >  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+>  <img width="12" />
 >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 >  <img width="12" />
 >  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
@@ -52,6 +55,8 @@
 >  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 >  <img width="12" />
 >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="canva logo"  /> 
 > </div>
 
 # 📊 GitHub Stats:
