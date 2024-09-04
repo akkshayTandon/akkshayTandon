@@ -73,7 +73,8 @@
 > ![](https://github-contributor-stats.vercel.app/api?username=akkshayTandon&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-> <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- > <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+> <a href='https://codermemes.vercel.app/' style="height: 400px;">View a Meme<a/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
