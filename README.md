@@ -79,8 +79,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Stats from Quine
-> [![akkshayTandon's GitHub | Languages Over Time](https://stats.quine.sh/akkshayTandon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akkshayTandon)
+# Stats from Quira
+<!-- > [![akkshayTandon's GitHub | Languages Over Time](https://stats.quine.sh/akkshayTandon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akkshayTandon) -->
+> [![](https://stats.quine.sh/akkshayTandon/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akkshayTandon)
 
 <!---
 akkshayTandon/akkshayTandon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
