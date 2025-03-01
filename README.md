@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Akkshay Tandon, a computer applications graduate student from BBD University, Lucknow.<br>🔭 I’m currently looking for an internship in frontend development.<br>🔗Visit [MyLinkTree](https://akkshaytandon.github.io/MyLinkTree/) portfolio.<br>🤝 I’m looking for help with my project [Hartan](https://github.com/akkshayTandon/react-hartan) and [Farzi Vichar API](https://github.com/akkshayTandon/farzi-vichar-api) .<br>🌱 I’m currently learning on [HackerRank](https://www.hackerrank.com/profile/akkshay65) pursuing JavaScript Algorithms and Data Structures certification from [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).<br>⚡ Fun fact - I can solve a Rubik's Cube. I also write Hindi poetry/shayari. You can see them [here](https://www.instagram.com/farzivichar/).
+👋 Hi, I’m Akkshay Tandon, a computer applications graduate from BBD University, Lucknow currently pursuing Master's.<br>🔭 I’m currently looking for an internship.<br>🔗Visit [MyLinkTree](https://akkshaytandon.github.io/MyLinkTree/) portfolio.<br>🤝 I’m looking for help with my project [Hartan](https://github.com/akkshayTandon/react-hartan) and [Farzi Vichar API](https://github.com/akkshayTandon/farzi-vichar-api) .<br>🌱 I’m currently learning on [HackerRank](https://www.hackerrank.com/profile/akkshay65) pursuing JavaScript Algorithms and Data Structures certification from [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).<br>⚡ Fun fact - I can solve a Rubik's Cube. I also write Hindi poetry/shayari. You can see them [here](https://www.instagram.com/farzivichar/).
 
 > [![](https://visitcount.itsvg.in/api?id=akkshayTandon&icon=5&color=12)](https://visitcount.itsvg.in)
 
@@ -10,6 +10,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tandonakkshay/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AkkshayTandon)
 <a href="https://www.hackerrank.com/profile/akkshay65"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+<a href="https://leetcode.com/u/akkshaytandon/"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="52" height="40" alt="leetcode logo"  /></a>
 
 # 💻 Tech Stack:
 
